@@ -1,4 +1,4 @@
-<!-- # HW-2-NLP
+# HW-2-NLP
 # NLP Homework - Fall 2024
 Overview
 This repository contains the solutions to Assignment 2 for the Natural Language Processing course, Fall 2024, under the guidance of Instructor Ayesha Enayet. The assignment focuses on implementing core NLP techniques, including:
@@ -88,4 +88,4 @@ Actual Neg.	50	200
 References
 IMDB Dataset
 Attention Is All You Need
-Course Material: NLP Fall 2024 -->
+Course Material: NLP Fall 2024
